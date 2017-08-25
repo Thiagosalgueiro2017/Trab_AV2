@@ -1,0 +1,9 @@
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\bin\Debug\AV2-MATHEUSZIN.exe.config
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\obj\Debug\AV2-MATHEUSZIN.csprojResolveAssemblyReference.cache
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\obj\Debug\AV2_MATHEUSZIN.Form1.resources
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\obj\Debug\AV2_MATHEUSZIN.Properties.Resources.resources
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\obj\Debug\AV2-MATHEUSZIN.csproj.GenerateResource.Cache
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\bin\Debug\AV2-MATHEUSZIN.exe
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\bin\Debug\AV2-MATHEUSZIN.pdb
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\obj\Debug\AV2-MATHEUSZIN.exe
+c:\users\pedro.carvalho\documents\visual studio 2015\Projects\AV2-MATHEUSZIN\AV2-MATHEUSZIN\obj\Debug\AV2-MATHEUSZIN.pdb
